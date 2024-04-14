@@ -11,7 +11,7 @@ hr{
 }
 
 .flex h2{
-    
+    font-weight: bold;
     margin-top: 20px;
     margin-bottom: 15px;
     text-align: center;
@@ -43,7 +43,7 @@ hr{
 .flex p{
     margin: 5px 0px 10px 0px;
     font-weight: bold;
-    color: var(--cor2);
+    color: var(--cor3);
 }
 .flex li{
     margin-bottom: 10px;
