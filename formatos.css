@@ -66,6 +66,8 @@ h1{
     color: var(--cor2);
 }
 .main{
+    
+    overflow-y: auto;
     margin-top: 200px;
 }
 .main div{
